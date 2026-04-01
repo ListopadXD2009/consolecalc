@@ -1,0 +1,12 @@
+﻿  consolecalc.c
+consolecalc.c(30): warning C4477: 'wscanf' : la cadena de formato '%c' requiere un argumento de tipo 'unsigned short *', pero el argumento variádico 1 tiene el tipo 'CHAR *'
+  consolecalc.c(30): note: considere el uso de ' %hc' en la cadena de formato
+  consolecalc.c(30): note: considere el uso de ' %Tc' en la cadena de formato
+  consolecalc.c(30): note: considere la definición de _CRT_STDIO_ISO_WIDE_SPECIFIERS si se requiere la semántica estándar de C99
+  Generando código
+  7 of 7 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  consolecalc.vcxproj -> C:\Users\sapph\source\repos\consolecalc\x64\Release\consolecalc.exe
+  consolecalc.vcxproj -> C:\Users\sapph\source\repos\consolecalc\x64\Release\consolecalc.pdb (Full PDB)
